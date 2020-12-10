@@ -1,0 +1,17 @@
+h1 {
+  font-family: 'abril Fatface';
+  font-size: 160px;
+  font-weight: 100;
+  letter-spacing: 5px;
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  cursor: pointer;
+
+}
+
+h1 span {
+  display: inline-block;
+}
