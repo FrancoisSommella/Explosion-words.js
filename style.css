@@ -7,11 +7,11 @@ h1 {
   position: absolute;
   top: 40%;
   left: 50%;
-  transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%); /*diminution des span en x et y*/
   cursor: pointer;
 
 }
 
 h1 span {
-  display: inline-block;
+  display: inline-block;            /*pour pouvoir translate les span*/
 }
